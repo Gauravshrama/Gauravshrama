@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav sharma</h1>
+<h1 align="center">Gaurav sharma</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
 - 🔭 I’m currently working on **spring boot project**

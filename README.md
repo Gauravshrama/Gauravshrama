@@ -1,10 +1,9 @@
-<h1 align="center">Gaurav sharma</h1>
+<div align="center">
+    <a href="#gh-light-mode-only">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=200&color=41b883&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Gaurav+Sharma;..My+Skills..;Java+Developer;UI+Designer;Software+Developer;Problem+Solving" alt="My Introduction">
+    </a>
+</div>
 <h3 align="center">A passionate Java developer from India</h3>
-
-- 🔭 I’m currently working on **spring boot project**
-
-- 🌱 I’m currently learning **My sql and spring boot**
-
 - 📫 How to reach me **Gs173909@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,4 +21,26 @@
   <img src="https://streak-stats.demolab.com?user=Gauravshrama&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravshrama&radius=16&theme=buefy&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+<h1>👨🏻‍💻 What's Happening?</h1>
+    <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+<a href="https://leetcode.com/gauravsharma__07#gh-dark-mode-only">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a  href="https://leetcode.com/gauravsharma__07#gh-light-mode-only">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/gauravsharma__07?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
+    </a>
+<div align="left" >
+<br>
+- 👨‍🎓 I've just started working on a new Android Project:<strong>Daily Routine Tracker</strong>.
+<p></p>
+- 🐣 Solving Leetcode Problems as a daily practice.
+<p></p>
+- 🌱 Learning <strong>Firebase API</strong> & <strong>Flutter</strong>
+<p></p>
+- 🔍 Solving <a href="https://leetcode.com/gauravsharma__07/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
+<p></p>
+- 💻 Working on <a href="https://www.github.com/gauravsharma__07/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
+<p></p>
+- 🤔 Pondering on <strong>Right Graph </strong> for my app.
+<p></p>
+</div>

@@ -4,7 +4,45 @@
     </a>
 </div>
 <h3 align="center">A passionate Java developer from India</h3>
-# Git States
+<div align=center> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
+[comment]: <> (<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>)
+# States
+
+<div>
+  <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+<a href="https://leetcode.com/gauravsharma__07#gh-dark-mode-only">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/gauravsharma__07?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" width="800" height="250" alt="LeetCode Stats - Dark Mode">
+    </a>
+    <a  href="https://leetcode.com/gauravsharma__07#gh-light-mode-only">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/gauravsharma__07?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="800" height="250" alt="LeetCode Stats - Light Mode">
+    </a>
+<div align="left" >
+<a href="#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsharma&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 250px;">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsharma&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 250px;"> 
+    </a>
+</div>
+
+      # Git States
+      
 <div align="center">
 <span align="left">
     <!--github most used languages-->

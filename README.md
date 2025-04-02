@@ -77,13 +77,7 @@
 - 👨‍🎓 I've just started working on a new Android Project:<strong>Daily Routine Tracker</strong>.
 <p></p>
 - 🐣 Solving Leetcode Problems as a daily practice.
-<p></p>
-- 🌱 Learning <strong>Firebase API</strong> & <strong>Flutter</strong>
-<p></p>
 - 🔍 Solving <a href="https://leetcode.com/gauravsharma__07/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
-<p></p>
-- 💻 Working on <a href="https://www.github.com/gauravsharma__07/Daily-Routine-Tracker-App" alt="link to the app"><strong>Daily Routine Tracker App</strong></a>
-<p></p>
 - 🤔 Pondering on <strong>Right Graph </strong> for my app.
 <p></p>
 </div>

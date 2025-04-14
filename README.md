@@ -67,7 +67,7 @@
 <h1>👨🏻‍💻 What's Happening?</h1>
     <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
 <a href="https://leetcode.com/gauravsharma__07#gh-dark-mode-only">
-        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/RahulSomani?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/gauravsharma__07?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" alt="Leetcode Stats">
     </a>
     <a  href="https://leetcode.com/gauravsharma__07#gh-light-mode-only">
         <img align="right" width="40%" src="https://leetcard.jacoblin.cool/gauravsharma__07?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" alt="Leetcode Stats">
